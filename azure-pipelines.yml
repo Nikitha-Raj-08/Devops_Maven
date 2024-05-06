@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: login
+pool: Login
 
 steps:
 - task: Maven@3
